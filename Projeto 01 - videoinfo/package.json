@@ -1,0 +1,14 @@
+{
+  "name": "videoinfo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "electron": "electron ."
+  },
+  "author": "Thiago Assi",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^8.0.1"
+  }
+}
